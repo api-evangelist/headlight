@@ -1,8 +1,15 @@
 aid: headlight
 name: Headlight
-description: 'Headlight is a company surfaced as a portfolio company of matrix-partners and added to the
-  API Evangelist network as a stub for enrichment. Sector: healthtech. This profile is a lead awaiting
-  the enrichment pipeline.'
+description: 'Headlight is a US mental health services company delivering teletherapy,
+  in-person therapy, psychiatry, and medication management through a clinician-centered
+  care model. Founded by Drs. Manish Sheth and Shashita Inamdar, it helps patients
+  move from initial interest to a well-matched therapist or prescriber with less friction,
+  treating conditions including depression, anxiety, ADHD, bipolar disorder, PTSD,
+  trauma, OCD, panic disorder, postpartum depression, and insomnia. Headlight is in-network
+  with major insurers (Aetna, Blue Cross, Cigna, UnitedHealthcare, Humana, Kaiser,
+  Moda) and operates across Alaska, California, Colorado, Oregon, Texas, and Washington.
+  The company raised $18M led by Matrix and EPIC Ventures. This is a consumer clinical
+  services provider with no public developer API surface.'
 url: https://raw.githubusercontent.com/api-evangelist/headlight/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,12 +17,30 @@ x-backed-by:
 - matrix-partners
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://headlight.health/wp-content/uploads/2024/01/Headlight.png
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
 - Healthtech
+- Mental Health
+- Telehealth
+- Teletherapy
+- Psychiatry
+- Behavioral Health
+- Healthcare
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +50,24 @@ maintainers:
 common:
 - type: Website
   url: https://headlight.health
+- type: Blog
+  url: https://headlight.health/blog/
+- type: Support
+  url: https://headlight.health/support/
+- type: HelpCenter
+  url: https://headlight.health/faq/
+- type: SignUp
+  url: https://my.headlight.health/get-started
+- type: Pricing
+  url: https://headlight.health/insurance/
+- type: PrivacyPolicy
+  url: https://headlight.health/privacy-policy/
+- type: TermsOfService
+  url: https://headlight.health/terms-of-service/
+- type: DomainSecurity
+  url: security/headlight-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
