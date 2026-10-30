@@ -64,6 +64,85 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Headlight is a company surfaced as a portfolio company of matrix-partners and added to the API Evangelist network as a stub for enrichment. Sector: healthtech. This profile is a lead awaiting the enrichment pipeline.
+Headlight is a US mental health services company delivering teletherapy, in-person therapy, psychiatry, and medication management through a clinician-centered care model. Founded by Drs. Manish Sheth and Shashita Inamdar, it helps patients move from initial interest to a well-matched therapist or prescriber with less friction, treating conditions including depression, anxiety, ADHD, bipolar disorder, PTSD, trauma, OCD, panic disorder, postpartum depression, and insomnia. Headlight is in-network with major insurers (Aetna, Blue Cross, Cigna, UnitedHealthcare, Humana, Kaiser, Moda) and operates across Alaska, California, Colorado, Oregon, Texas, and Washington. The company raised $18M led by Matrix and EPIC Ventures. This is a consumer clinical services provider with no public developer API surface.
 
-Backed by: matrix-partners — https://headlight.health
+**Areas:** Company · Health Tech · Mental Health · Telehealth · Teletherapy · Psychiatry · Behavioral Health · Healthcare
+
+## Headlight on APIs.io
+
+Everything profiled for Headlight is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/headlight/](https://apis.io/providers/headlight/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Headlight Domain Security](https://apis.io/security/headlight/headlight-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://headlight.health)
+- [Pricing](https://headlight.health/insurance/)
+- [Sign up](https://my.headlight.health/get-started)
+- [Support](https://headlight.health/support/)
+- [Blog](https://headlight.health/blog/)
+- [Terms of service](https://headlight.health/terms-of-service/)
+- [Privacy policy](https://headlight.health/privacy-policy/)
+
+## API Evangelist rating
+
+**Kin Score 15.0** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 44.7 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 10.9** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/headlight/](https://apis.io/providers/headlight/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Headlight: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/headlight/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
